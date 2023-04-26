@@ -10,6 +10,7 @@ namespace Try
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello");
         }
     }
 }
